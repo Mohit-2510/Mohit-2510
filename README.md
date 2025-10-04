@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohit Pandya  
 
-<!--
-**Mohit-2510/Mohit-2510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Data Analyst** | Passionate about turning data into actionable insights  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Skills & Tools
+- **Languages:** Python, SQL, DAX  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Visualization:** Power BI, MS Excel
+- **Database:** PostgreSQL  
+- **Other:** Power Query, Power Pivot, GitHub  
+
+---
+
+### 📫 Connect with Me
+- 💼 [LinkedIn](www.linkedin.com/in/mohit-pandya-296a3823a)
+- 📧 Email: pandyamohit1996@gmail.com
